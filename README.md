@@ -1,3 +1,0 @@
-# InkRadiusMeasurement
-
-README IS COMING
